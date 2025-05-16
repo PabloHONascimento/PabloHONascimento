@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Eae,tudo bem com você ? 👋
+## Meu nome é Pablo Henrique de Oliveira do Nascimento , tenho 19 anos , mi formei na Escola Estadual Henrique Diniz em 2024 , e estou fazendo o curso de Programador de Sistemas do Senac , que fica localizado na galeria do Comercial Center , no centro da cidade de Barbacena , no estado de Minas Gerais.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pabloonascimento26)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pabloonascimento26@gmail.com)
 <!--
 **PabloHONascimento/PabloHONascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
